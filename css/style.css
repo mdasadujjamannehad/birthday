@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#myphoto{
+     
+    background: url(../images/IMG_E5725.JPG);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position:center; 
+    
+}
+.photooverly{
+    width: 100%;
+    padding: 100px 0; 
+    background: rgba(0, 0, 0, 0.713);
+    
+}
+.photoitem{
+    display: flex;
+    
+}
+.phototext{
+    width: 50%;
+}
+.phototext h1{
+    color: whitesmoke;
+    font-size: 50px;
+    margin-left: 50px;
+    font-family: 'Playpen Sans', cursive;
+    margin-top: 300px; 
+}
+.photo_text_plugin{
+    width: 50%;
+    
+}
+.photo_text_plugin h3{
+    color: red;
+    font-size: 80px;
+    font-family: 'Anton', sans-serif;
+    margin-top: 100px;
+    
+}
+.photo_plugin {
+	display: flex;
+	padding-top: 121px;
+	padding-bottom: 301px;
+	margin-left: -94px;
+}
+.plugin_item{
+    
+    text-align: center;
+    padding: 20px 0;
+    width: 200px;
+    background: #fff;
+    margin-right: 50px;
+
+}
